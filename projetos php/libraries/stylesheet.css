@@ -1,0 +1,28 @@
+body{margin: 0; padding: 0;
+background: black;}
+header{width: 100%;}
+main{width: 100%;}
+footer{width: 100%;}
+ul{margin:0; padding:0; list-style:none;}
+nav{float: left; width:100%; background:#000000; font-weight: bold; font-family: Verdana, sans-serif;}
+
+
+
+/* para Smartphone */
+@media only screen and(max-width: 480px){
+nav{height: 50px;}
+}
+
+
+
+/* tablet */
+@media only screen and(min-width: 480px){
+nav{height: 80px;}
+
+}
+
+/*desktop*/
+@media only screen and (min-width: 769px){
+nav{height: 100px;}
+
+}
