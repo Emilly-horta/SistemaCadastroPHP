@@ -1,5 +1,5 @@
 <?php
-session_start();
+//session_start();
 include("login.php");
 
 //função TRIM remove o caractere de espaço das extremidades inicial e final da cadeia de caracteres

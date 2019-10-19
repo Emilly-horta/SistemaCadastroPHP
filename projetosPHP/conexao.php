@@ -2,7 +2,7 @@
 
 $dsn = 	"mysql:host=localhost;dbname=testephp";
 $user = 'emilly';
-$pass = 'emilly-pinguim'
+$pass = 'emilly-pinguim';
 
 function getConnection(){
 
